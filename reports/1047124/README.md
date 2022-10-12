@@ -6,7 +6,7 @@ Name: Athanasopoulou Konstantina <br />
 ## Information Visualization:
 | Εβδομάδα* | Παραδοτέο | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Εισαγωγή](#Introduction) | | |
+| 1 | [Εισαγωγή](#Introduction) | [Discussion Link](https://github.com/upatras-hci/iv/discussions/29) | |
 | 2 | βιογραφικό Α | | |
 | 3 | γραμμή εντολών (arch linux) | | |
 | 4 | συμμετοχικό περιεχόμενο 1A | | |
